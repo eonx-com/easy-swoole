@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace EonX\EasySwoole\Tests\Stub\Service;
+namespace EonX\EasySwoole\Tests\Stub\Resetter;
 
 use Symfony\Contracts\Service\ResetInterface;
 
